@@ -6,7 +6,7 @@
 	height: 500px;
 	display: flex;
 	justify-content: center;
-	align-items: center;
+	align-items: flex-start;
 	flex-wrap: wrap;
 	padding: 30px;
 	box-sizing: border-box;  
@@ -82,7 +82,7 @@
 		max-width: 640px;
 	}
 	.conte .cart {
-		max-width: 100%;
+		max-width: 48%;
 		height: auto;
 		margin: 10px;
 	}
