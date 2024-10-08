@@ -3,7 +3,7 @@
 	position: absolute;
 	width: 100%;
 	max-width: 1200px;
-	min-heigth: 500px;
+	heigth: 215px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -79,6 +79,7 @@
 		width: 100%;
 		padding: 15px;
 		max-width: 640px;
+		height:0px;
 	}
 	.conte .cart {
 		max-width: 48%;
