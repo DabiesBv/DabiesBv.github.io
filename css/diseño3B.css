@@ -72,6 +72,7 @@
 @media (max-width: 768px) {
 	.conte {
 		padding: 15px;
+		width: 680px;
 	}
 	.conte .cart {
 		max-width: 100%;
@@ -91,6 +92,7 @@
 @media (max-width: 480px) {
 	.conte {
 		padding: 10px;
+		width: 400px;
 	}
 	.conte .cart {
 		max-width: 100%;
